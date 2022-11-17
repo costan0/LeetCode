@@ -2,10 +2,10 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<h1 align="center">Moshi Moshi! Urewa Luffy, Deberoppā oni urewa naru!!</h1>
+<h1 align="center">Dattebayo!!!</h1>
 <h3 align="center">A new Runner in the Tech Race.</h3>
 
-<img allign="right" alt="Coding" width="400" src="https://media.zicxa.com/8077616" alt="W3Schools.com">
+<img allign="center" alt="Coding" width="400" src="https://media.zicxa.com/8077616" alt="W3Schools.com">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=costan0&label=Profile%20views&color=0e75b6&style=flat" alt="costan0" /> </p>
 
