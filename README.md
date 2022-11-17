@@ -1,7 +1,8 @@
-# LeetCode
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<!-- # LeetCode -->
 
-<h1 align="center">Hi 👋, I'm Bhal Singh</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+<h1 align="center">Moshi Moshi! Urewa Luffy, Deberoppā oni urewa naru!!</h1>
 <h3 align="center">A new Runner in the Tech Race.</h3>
 
 <img allign="right" alt="Coding" width="400" src="https://media.zicxa.com/8077616" alt="W3Schools.com">
